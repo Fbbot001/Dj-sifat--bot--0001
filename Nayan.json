@@ -7,15 +7,15 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "উ্ঁফ্ঁ বা্ঁবু্ঁ উ্ঁম্মা্ঁ-bot",
+  "BOTNAME": "উ্ঁফ্ঁ বা্ঁবু্ঁ-bot",
   "PREFIX": "/",
   "OPERATOR": [
     "100095089282395",
-    "100"
+    "61561318152398"
   ],
   "ADMINBOT": [
     "100095089282395",
-    ""
+    "61561318152398"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
